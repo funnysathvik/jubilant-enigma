@@ -1,0 +1,23 @@
+.skibidi{
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.heading{
+    background-color: chocolate;
+    border: 3px black solid;
+    border-radius: 10px;
+    box-shadow: 5px 5px 38px royalblue;
+    margin-top: 15px;
+    font-weight: 800;
+}
+.note{
+    font-weight: 600;
+}
+.song{
+    background-image: linear-gradient(rgb(82, 120, 163), lightskyblue);
+    font-weight: 600;
+    box-shadow: 5px 5px 38px turquoise;
+    margin-top: 20px;
+    border: 3px rgb(226, 162, 116) dotted;
+}
